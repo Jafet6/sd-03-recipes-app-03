@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 import Login from '../pages/Login/Login';
 import Profile from '../pages/UserProfile/Profile';
 import DetailsRecipeContent from '../pages/DetailsPage/DetailsRecipePage/DetailsRecipeContent';
@@ -15,7 +15,7 @@ import NotFound from '../pages/ExplorerPages/NotFound';
 import DoneRecipes from '../pages/DoneRecipes';
 
 const Routes = () => (
-  <BrowserRouter>
+  <HashRouter>
     <Switch>
       <Route path="/explorar/bebidas/area" component={NotFound} />
       <Route path="/explorar/comidas/area" component={ExplorerByArea} />
@@ -35,7 +35,7 @@ const Routes = () => (
       <Route exact path="/perfil" component={Profile} />
       <Route exact path="/" component={Login} />
     </Switch>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 export default Routes;

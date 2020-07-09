@@ -1,5 +1,6 @@
 {
   "name": "recipes-app-test",
+  "homepage": "https://Jafet6.github.io/sd-03-recipes-app-03",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,7 +29,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test-coverage": "react-scripts test --coverage --watchAll=false",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
