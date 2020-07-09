@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sd-03-recipes-app-03/static/css/main.a1954c0e.chunk.css",
+    "main.css": "/sd-03-recipes-app-03/static/css/main.6c737983.chunk.css",
     "main.js": "/sd-03-recipes-app-03/static/js/main.9c3f8129.chunk.js",
     "main.js.map": "/sd-03-recipes-app-03/static/js/main.9c3f8129.chunk.js.map",
     "runtime-main.js": "/sd-03-recipes-app-03/static/js/runtime-main.01b01e31.js",
@@ -8,9 +8,9 @@
     "static/js/2.b30faca0.chunk.js": "/sd-03-recipes-app-03/static/js/2.b30faca0.chunk.js",
     "static/js/2.b30faca0.chunk.js.map": "/sd-03-recipes-app-03/static/js/2.b30faca0.chunk.js.map",
     "index.html": "/sd-03-recipes-app-03/index.html",
-    "precache-manifest.257894d2f1de9770bac8e043f0a767b0.js": "/sd-03-recipes-app-03/precache-manifest.257894d2f1de9770bac8e043f0a767b0.js",
+    "precache-manifest.a01432bc454dbd4d0ecc3be27bad9000.js": "/sd-03-recipes-app-03/precache-manifest.a01432bc454dbd4d0ecc3be27bad9000.js",
     "service-worker.js": "/sd-03-recipes-app-03/service-worker.js",
-    "static/css/main.a1954c0e.chunk.css.map": "/sd-03-recipes-app-03/static/css/main.a1954c0e.chunk.css.map",
+    "static/css/main.6c737983.chunk.css.map": "/sd-03-recipes-app-03/static/css/main.6c737983.chunk.css.map",
     "static/js/2.b30faca0.chunk.js.LICENSE.txt": "/sd-03-recipes-app-03/static/js/2.b30faca0.chunk.js.LICENSE.txt",
     "static/media/beber.svg": "/sd-03-recipes-app-03/static/media/beber.3c35e11f.svg",
     "static/media/blackHeartIcon.svg": "/sd-03-recipes-app-03/static/media/blackHeartIcon.b8913346.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.01b01e31.js",
     "static/js/2.b30faca0.chunk.js",
-    "static/css/main.a1954c0e.chunk.css",
+    "static/css/main.6c737983.chunk.css",
     "static/js/main.9c3f8129.chunk.js"
   ]
 }
